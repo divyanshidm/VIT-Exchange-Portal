@@ -1,6 +1,7 @@
 # VIT-Exchange-Portal
 VIT Exchange Portal is a web application that will allow VIT Students to interact with each other. The application shall be helpful for a variety of purposes. It consists of mainly three forums: Reviews exchange forum, Discussions forum and cab sharing forum.
-
+<br/>
+Click [here](https://nameless-savannah-14217.herokuapp.com/index.php) to take a tour of VIT Exchange Portal. <br/>
 # Dependenices #
 * XAMPP web server <br/>
 * PHP <br/>
@@ -22,4 +23,5 @@ Execute the <kbd> database.sql </kbd> file in the directory root using the MySQL
 ## Folder setup ##
 - [x] Copy the contents of <kbd> src </kbd> folder to <kbd> C:\xampp\htdocs </kbd> in your local computer. <br/>
 - [x] Open http://localhost/index.php on your browser. Make sure Apache and MySQL are turned on in Xampp Control Panel. <br/>
-- [x] The homepage of VEP should open. Browse through the entire website.
+- [x] The homepage of VEP should open. You can browse through the entire website.
+- [x] Use username "15BCE0342" (without quotes) and password "qwerty" (without quotes) to login.
