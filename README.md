@@ -1,7 +1,7 @@
 # VIT-Exchange-Portal
-VIT Exchange Portal is a web application that will allow VIT Students to interact with each other. The application shall be helpful for a variety of purposes. It consists of mainly three forums: Reviews exchange forum, Discussions forum and cab sharing forum.
-<br/>
+VIT Exchange Portal is a web application that will allow VIT Students to interact with each other. The application shall be helpful for a variety of purposes. It consists of mainly three forums: Reviews exchange forum, Discussions forum and cab sharing forum. <br/> <br/>
 Click [here](https://nameless-savannah-14217.herokuapp.com/index.php) to take a tour of VIT Exchange Portal. <br/>
+Use username "15BCE0342" (without quotes) and password "qwerty" (without quotes) to login. <br/>
 # Dependenices #
 * XAMPP web server <br/>
 * PHP <br/>
