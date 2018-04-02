@@ -18,10 +18,10 @@ Use username "15BCE0342" (without quotes) and password "qwerty" (without quotes)
 
 ## Database Setup ##
 PHPMyAdmin is recommended to execute the SQL scripts.
-Execute the <kbd> database.sql </kbd> file in the directory root using the MySQL command line or PHPMyAdmin in order to create the required tables.
+Execute the <kbd> database.sql </kbd> file inside <kbd> dataBase </kbd> folder in the directory root using the MySQL command line or PHPMyAdmin in order to create the required tables.
 
 ## Folder setup ##
-- [x] Copy the contents of <kbd> src </kbd> folder to <kbd> C:\xampp\htdocs </kbd> in your local computer. <br/>
+- [x] Copy the contents of <kbd> src </kbd> folder to <kbd> C:\xampp\htdocs </kbd> in your local computer. Also copy the contents of <kbd> images </kbd> folder inside <kbd> src </kbd> to the same folder.<br/>
 - [x] Open http://localhost/index.php on your browser. Make sure Apache and MySQL are turned on in Xampp Control Panel. <br/>
 - [x] The homepage of VEP should open. You can browse through the entire website.
 - [x] Use username "15BCE0342" (without quotes) and password "qwerty" (without quotes) to login.
