@@ -5,6 +5,8 @@ session_start();
 
 if($_SESSION['regnum'] && $_SESSION['password']){ 
 
+	//various conditions for login of admin and other users.
+
 		if($_SESSION['regnum']=='admin@vep' && $_SESSION['password']=='lastminute')
 		{
 					
@@ -13,6 +15,10 @@ if($_SESSION['regnum'] && $_SESSION['password']){
 		else if($_SESSION['regnum']=='admin@vep' && $_SESSION['password']!='lastminute')
 		{
 			echo "<b>ERROR:<b> Wrong Password For Admin!";
+		}
+		else
+		{
+			header("location: admin_enter.php");
 		}
 		
 }
